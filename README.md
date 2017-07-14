@@ -1,2 +1,1 @@
-# flash-orientalgrouplive
-Oriental Group Live (Flash)
+# Oriental Group Live (Flash)
